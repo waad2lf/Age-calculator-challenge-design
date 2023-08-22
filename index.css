@@ -57,4 +57,5 @@ button:hover {
     box-shadow: 5px 6px rgba(0, 0, 0, 0.14);
     color: rgb(25, 122, 232);
     background-color:white;
+    transition: background-color 0.5s, box-shadow 0.5s;
 }
